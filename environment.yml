@@ -1,0 +1,25 @@
+name: nad-mri
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pytorch=2.1.*
+  - pytorch-cuda=12.1
+  - h5py
+  - matplotlib
+  - mpi4py
+  - nibabel
+  - numpy
+  - pywavelets
+  - scikit-image
+  - scipy
+  - tqdm
+  - pip:
+      - blobfile>=1.0.5
+      - fastmri
+      - meddlr
+      - sigpy

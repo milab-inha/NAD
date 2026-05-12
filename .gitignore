@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
+
+output/
+exp/
+*.pt
+*.pth
+*.nii
+*.nii.gz
