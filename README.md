@@ -1,6 +1,6 @@
-# NAD MRI Sampling
+# Noise-Aware Adaptive Diffusion Sampling for Accelerated Knee MRI Reconstruction
 
-This repository contains the NAD-only sampling code separated from the original comparison workspace.
+Official implementation of **Noise-Aware Adaptive Diffusion Sampling for Accelerated Knee MRI Reconstruction**.
 
 ## Structure
 
