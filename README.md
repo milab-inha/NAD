@@ -35,7 +35,7 @@ Download the pretrained NAD checkpoint from the GitHub release assets:
 ```bash
 mkdir -p checkpoint
 wget -O checkpoint/ckpt-model240000.pt \
-  https://github.com/dabin1124/NAD/releases/download/v1.0/ckpt-model240000.pt
+  https://github.com/milab-inha/NAD/releases/download/v1.0/ckpt-model240000.pt
 ```
 
 If `wget` is not available, use `curl`:
